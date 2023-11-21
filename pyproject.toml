@@ -1,4 +1,6 @@
 [project]
+name = "debuganywhere"
+version = "0.1"
 dynamic = ["dependencies"]
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}
